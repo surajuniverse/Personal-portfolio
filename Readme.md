@@ -1,1 +1,1 @@
-#This is my portfolio website which is under construction
+#This is my portfolio website which is under developmet
