@@ -1,0 +1,35 @@
+nav {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background-color: rgb(7, 7, 70);
+    height: 70px;
+    /* overflow: hidden; */
+}
+
+nav ul li {
+    font-size: 1.3rem;
+    color: white;
+    margin: 10px 18px;
+    font-size: large;
+
+}
+
+.first {
+    margin: 8px 100px;
+    font-size: 1.6rem;
+    display: flex;
+}
+
+.first-name {
+    margin-left: 15px;
+}
+
+.second ul {
+    display: flex;
+    list-style: none;
+}
+
+.second-name {
+    margin: 0px 15px;
+}

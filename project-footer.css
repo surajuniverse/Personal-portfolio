@@ -1,0 +1,20 @@
+
+.footer {
+    height: 160px;
+    width: 100%;
+    margin-bottom: 0%;
+    background-color: rgb(6, 6, 68);
+
+}
+
+.footer div {
+    padding-top: 1.5rem;
+ 
+}
+
+
+
+#footer-rights {
+    text-align: center;
+    padding-top: 40px;
+}
